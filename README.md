@@ -4,8 +4,8 @@ title: Just another home page
 ---
 
 Useful links:
-- [Load testing: tools, articles](./Useful+links/load-testing.md)
-- [Memory dump analysis: tools, articles](./Useful+links/dump-analysis.md)
+- [Load testing: tools, articles](./links/load-testing.md)
+- [Memory dump analysis: tools, articles](./links/dump-analysis.md)
 
 
 Just a piece of poetry that is worth decoding:
